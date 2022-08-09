@@ -1,0 +1,2 @@
+lf_tech_school;Laissez-Faire Tech School;;;;;;;;;;x;;
+switch_to_lf_tech;Switch to Laissez-Faire Tech School;;;;;;;;;;x;;
