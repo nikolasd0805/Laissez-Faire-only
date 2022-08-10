@@ -9,7 +9,4 @@ Vic2 mod that buffs laissez-faire and every economic policy has been changed to 
  4. Maximum tariffs are now 0%
  5. Easier to encourage capitalists to build a factory with national focuses
  6. Added a new tech school that gives 50% bonus on commerce and and industry techs and a -25% on army and naval tech
- 
- To do:
-
-1. Add localisation on new decision and tech school
+ 7. Now you won't get earaped when you open the game
