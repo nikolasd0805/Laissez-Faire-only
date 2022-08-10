@@ -10,3 +10,4 @@ Vic2 mod that buffs laissez-faire and every economic policy has been changed to 
  5. Easier to encourage capitalists to build a factory with national focuses
  6. Added a new tech school that gives 50% bonus on commerce and and industry techs and a -25% on army and naval tech
  7. Now you won't get earaped when you open the game
+ 8. Capitalists can now build forts and naval bases cause why not
